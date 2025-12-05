@@ -2,6 +2,9 @@
 
 Interactive marimo notebook displaying property tax rates and 2024 population data for 233 Oregon cities.
 
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+[![Run with marimo](https://marimo.io/shield.svg)](https://marimo.io/p/@YOUR_USERNAME/oregon-city-tax-rates/explore_city_tax_data.py)
+
 ## Data Sources
 
 - **Property Tax Data**: FY 2024-25 Property Tax Statistics Supplement
